@@ -139,31 +139,31 @@
       },
       {
         "en": {
-          "title": "bonepayment Intro",
+          "title": "B ONE PAYMENT Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/en/5-bonepayment-basics.md",
           "updated_at": "2020-06-01"
         },
         "ru": {
-          "title": "bonepayment Кошелек",
+          "title": "B ONE PAYMENT Кошелек",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/ru/5-bonepayment-basics.md",
           "updated_at": "2020-06-01"
         },
         "fr": {
-          "title": "Intro bonepayment",
+          "title": "Intro B ONE PAYMENT",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/fr/5-bonepayment-basics.md",
           "updated_at": "2020-06-01"
         },
         "de": {
-          "title": "bonepayment Intro",
+          "title": "B ONE PAYMENT Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/de/5-bonepayment-basics.md",
           "updated_at": "2020-06-01"
         },
         "fa": {
-          "title": "bonepayment Intro",
+          "title": "B ONE PAYMENT Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/fa/5-bonepayment-basics.md",
           "updated_at": "2020-06-01"

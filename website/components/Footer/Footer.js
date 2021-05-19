@@ -13,8 +13,8 @@ function Footer() {
           <div className="Footer-nav">
             <a className="Footer-nav-item" href="/">Home</a>
             <a className="Footer-nav-item" target="_blank" rel="noopener noreferrer" href="https://bonepayment.com">About</a>
-            <a className="Footer-nav-item" target="_blank" rel="noopener noreferrer" href="https://t.me/bonepayment_development">Contact</a>
-            <a className="Footer-nav-item" target="_blank" rel="noopener noreferrer" href="http://bonepayment.com/">bonepayment Wallet</a>
+            <a className="Footer-nav-item" target="_blank" rel="noopener noreferrer" href="https://t.me/B ONE PAYMENT_development">Contact</a>
+            <a className="Footer-nav-item" target="_blank" rel="noopener noreferrer" href="http://bonepayment.com/">B ONE PAYMENT Wallet</a>
           </div>
           <div className="Footer-subscribe">
             <SubscribeForm formCode="m3g0e6" formId="1561498" />
@@ -35,7 +35,7 @@ function Footer() {
             </div>
           </a>
 
-          <span>@ 2019 bonepayment</span>
+          <span>@ 2019 B ONE PAYMENT</span>
         </div>
       </Container>
     </header>

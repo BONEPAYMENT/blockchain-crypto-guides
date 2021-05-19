@@ -60,7 +60,7 @@ Any good non-custodial wallet app should be engineered in accordance with the pu
 
 Another essential aspect, a single private key can be used to control balances for multiple cryptocurrencies. When using such key the wallet apps can automatically locate the balances for all supported cryptocurrencies.
 
-For instance, when creating the wallet on [bonepayment wallet](https://bonepayment.com) the user gets a single private key for 5 cryptocurrencies:
+For instance, when creating the wallet on [B ONE PAYMENT wallet](https://B ONE PAYMENT.com) the user gets a single private key for 5 cryptocurrencies:
 
 - Bitcoin
 - Dash

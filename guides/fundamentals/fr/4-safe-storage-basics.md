@@ -59,7 +59,7 @@ Les portefeuilles mobiles pour iOS et Android sont le type le plus courant d'app
 
 Parmi nos préférés :
 
-- [bonepayment Wallet](https://bonepayment.com)
+- [B ONE PAYMENT Wallet](https://bonepayment.com)
 - [Bread Wallet](https://brd.com)
 
 Du point de vue de la sécurité, le portefeuille matériel est considéré comme plus sûr qu'un portefeuille de portable.

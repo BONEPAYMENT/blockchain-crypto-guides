@@ -59,7 +59,7 @@
 
 Вот некоторые из наших любимых приложений:
 
-- [bonepayment Wallet](https://bonepayment.com)
+- [B ONE PAYMENT Wallet](https://bonepayment.com)
 - [Bread Wallet](https://brd.com)
 
 С точки зрения безопасности, аппаратные кошельки считаются более безопасными, нежели мобильные кошельки.
