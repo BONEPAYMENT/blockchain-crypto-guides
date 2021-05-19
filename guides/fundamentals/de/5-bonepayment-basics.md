@@ -12,7 +12,7 @@ Aus der Sicht der Nutzer sollten die grundlegenden Erwartungen an jede Non-Custo
 
 Abgesehen von den oben genannten „Must-Haves“ kann es je nach Zielgruppe andere Erwartungen an das Wallet geben. Wer eine umfassende Privatsphäre wünscht, benötigt möglicherweise zusätzliche private Funktionen, die in den meisten Wallet-Apps nicht verfügbar sind.
 
-> **Disclaimer: Das [B ONE PAYMENT Wallet](https://B ONE PAYMENT.com) wurde von [B ONE PAYMENT](https://B ONE PAYMENT.com), hergestellt, dem Unternehmen hinter diesen Leitfäden.**
+> **Disclaimer: Das [B ONE PAYMENT Wallet](https://bonepayment.com) wurde von [B ONE PAYMENT](https://bonepayment.com), hergestellt, dem Unternehmen hinter diesen Leitfäden.**
 
 Im Folgenden gehen wir auf einige wichtige Punkte ein, die bei der Verwendung von Non-Custodial Wallet-Apps zu beachten sind. Wir werden die B ONE PAYMENT Wallet-App verwenden, um diese wichtigen Aspekte zu veranschaulichen.
 
