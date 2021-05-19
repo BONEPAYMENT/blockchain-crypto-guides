@@ -32,7 +32,7 @@ class SubscribeFormModal extends React.Component {
             <input type="checkbox" defaultChecked={true} required />
             <span className="checkbox-custom" />
             <div className="Contact-checkbox-description">
-              By signing up, you agree to Horizontal Systems <a href="https://bonepayment.com/privacy">Privacy Policy</a>
+              By signing up, you agree to B ONE PAYMENT <a href="https://bonepayment.com/privacy">Privacy Policy</a>
             </div>
           </label>
           <div className="Contact-form-group">

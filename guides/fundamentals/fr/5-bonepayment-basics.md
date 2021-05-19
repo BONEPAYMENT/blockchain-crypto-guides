@@ -14,7 +14,7 @@ Du point de vue de l'utilisateur, les attentes de base de toute application de c
 
 Outre les incontournables mentionnés ci-dessus, il peut y avoir d'autres exigences à l'égard du portefeuille selon l'utilisateur cible. Une personne qui cherche à préserver sa vie privée peut avoir besoin de fonctionnalités privatives supplémentaires qui ne sont pas disponibles dans la plupart des applications de portefeuille.
 
-> **Avertissement: [B ONE PAYMENT Wallet](https://bonepayment.com) a été conçu par [Horizontal Systems](https://bonepayment.com), la société à l'origine de ces guides.**
+> **Avertissement: [B ONE PAYMENT Wallet](https://bonepayment.com) a été conçu par [B ONE PAYMENT](https://bonepayment.com), la société à l'origine de ces guides.**
 
 Dans les pages qui suivent, nous allons passer en revue quelques points importants à garder en tête lorsque l'on utilise des applications de portefeuille non-privatives de liberté. Nous allons utiliser l'application B ONE PAYMENT Wallet pour illustrer ces aspects importants.
 
